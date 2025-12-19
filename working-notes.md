@@ -325,5 +325,24 @@ Este arquivo concentra decisões e anotações de trabalho do backend (working n
 - Seeds: rodar catálogo global; seeds de tenant só com comando explícito `seed --tenant <id>` (ou endpoint restrito Aza8).
 - Build/run: `npm run build` e `npm run start:prod` (ou container). `NODE_ENV=production`, JWT keys e API keys segregadas por ambiente.
 
-# Proximas Features
+# Proximas Features (não usar)
+
+
+# Supabase - credenciais (não usar)
+
+- Project Name: za8-hub-dev
+  Password: xRyRaxPKRRosaRsO
+
+  Database connection string (Direct connection / URI)
+  postgresql://postgres:[xRyRaxPKRRosaRsO]@db.sxouprhqdyapsbfkvphq.supabase.co:5432/postgres
+
+- Project Name: aza8-hub-staging
+  Password: 
+
+  Database connection string (Direct connection / URI)
+
+- Project Name: aza8-hub-prod
+  Password: xRyRaxPKRRosaRsO
+
+  Database connection string (Direct connection / URI)
 
