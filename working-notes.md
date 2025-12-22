@@ -328,7 +328,7 @@ Este arquivo concentra decisões e anotações de trabalho do backend (working n
 # Proximas Features (não usar)
 
 
-# Supabase - credenciais (não usar)
+# Credenciais (não usar)
 
 - Project Name: za8-hub-dev
   Password: xRyRaxPKRRosaRsO
